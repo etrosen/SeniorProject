@@ -1,14 +1,50 @@
+.segue {
+color: blue;
+
+}
+
 #myseniorproject {
 color: green;
 text-align: center;
+font-family: helvetica;
+padding: 15px;
 }
 
-#title {
+#projecttitle {
 color: blue;
 text-align: center;
+font-family: helvetica;
+padding: 15px;
 }
 
 #by {
 color: red;
 text-align: center;
+font-family: helvetica;
+padding: 15px;
 }
+
+p {
+text-align: center;
+font-family: helvetica;
+color: #66CDAA;
+
+}
+
+body {
+background-color: #FFE4B5;
+}
+
+#pleaselook {
+color: red;
+text-align: center;
+font-weight: 15px;
+}
+
+table, td, th {
+text-align: center;
+border: 2px solid black;
+padding: 10px;
+border-spacing: 1px;
+}
+
