@@ -4,6 +4,13 @@ text-align: center;
 
 }
 
+#week1, #week2, #week3, #week4 {
+
+color: red;
+text-align: center;
+font-family: helvetica;
+}
+
 #myseniorproject {
 color: green;
 text-align: center;
