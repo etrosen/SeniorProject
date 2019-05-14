@@ -5,28 +5,27 @@ text-align: center;
 }
 
 #week1, #week2, #week3, #week4 {
-
-color: red;
 text-align: center;
 font-family: helvetica;
 }
 
 #myseniorproject {
-color: white;
+color: blue;
 text-align: center;
 font-family: helvetica;
 padding: 15px;
+font-size: 200%;
 }
 
 #projecttitle {
-color: white;
+color: green;
 text-align: center;
 font-family: helvetica;
 padding: 15px;
 }
 
 #by {
-color: white;
+color: blue;
 text-align: center;
 font-family: helvetica;
 padding: 15px;
@@ -35,24 +34,40 @@ padding: 15px;
 p {
 text-align: center;
 font-family: helvetica;
-color: #66CDAA;
+color: #4682B4;
 
 }
 
 body {
-background-color: #FFE4B5;
+background-color: #FAEBD7;
 }
 
 #pleaselook {
-color: red;
+color: green;
 text-align: center;
 font-weight: 15px;
 }
 
-table, td, th {
+table, td {
 text-align: center;
-border: 2px solid black;
+border: 2px solid white;
 padding: 10px;
 border-spacing: 1px;
 }
 
+th {
+color: #7B68EE;
+font-weight: 30px;
+
+}
+
+#jumpto {
+color: green;
+}
+
+#finalreflection {
+color: #FF69B4;
+font-weight: 30px;
+
+
+}
